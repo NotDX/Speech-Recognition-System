@@ -1,0 +1,86 @@
+$orders = wei na yi hao | 
+wei na er hao | 
+ni hao xiao yi | 
+ding dong ding dong | 
+yu yin shi bie | 
+xia men da xue | 
+ni hao | 
+ni hao xiao yi | 
+ni cong na li lai | 
+ni jiao shen me ming zi | 
+ni hui shen me | 
+qian jin | 
+hou tui | 
+zuo zhuan | 
+you zhuan | 
+tiao wu | 
+kai pao | 
+xian zai ji dian le | 
+hong qing yang | 
+tong feng | 
+lei wen dian | 
+liu zhi jian | 
+da kai she deng | 
+guan bi she deng | 
+da kai tong deng | 
+guan bi tong deng | 
+da kai dian shi | 
+guan bi dian shi | 
+da kai deng guang | 
+guan bi deng guang | 
+da kai deng dai | 
+guan bi deng dai | 
+zhong yang yi tao | 
+zhong yang san tao | 
+zhong yang wu tao | 
+li jia mo shi | 
+hui ke mo shi | 
+shui mian mo shi | 
+da kai chuang lian | 
+guan bi chuang lian | 
+wei lai jia | 
+hui jia mo shi | 
+huan tai | 
+kan dian shi | 
+lang man mo shi | 
+shang yi tai | 
+xia yi tai | 
+zhe shi ren zong | 
+ni ke yi hui qu chi fan le | 
+bang wo na yi bei shui | 
+ni ke yi hui qu chi fan le | 
+bang wo na yi bei shui | 
+bang ren zong na yi bei shui | 
+bang ke ren na yi bei shui | 
+gei wo na yi bei shui | 
+gei ren zong na yi bei shui | 
+gei ke ren na yi bei shui | 
+gei wo na yi bei yin liao | 
+gei ren zong na yi bei yin liao | 
+gei ke ren na yi bei yin liao | 
+gei wo na yi bei guo zhi | 
+gei ren zong na yi bei guo zhi | 
+gei ke ren na yi bei guo zhi | 
+gei wo na yi bei ka fei | 
+gei ren zong na yi bei ka fei | 
+gei ke ren na yi bei ka fei | 
+gei wo na yi bei ke le | 
+gei ren zong na yi bei ke le | 
+gei ke ren na yi bei ke le | 
+gei wo na yi bei niu nai | 
+gei ren zong na yi bei niu nai | 
+gei ke ren na yi bei niu nai | 
+ni ke yi xiu xi le | 
+wei na jia li lai ke ren le | 
+wo lai gei ni jie shao yi xia ke ren | 
+zhe shi ren zong | 
+zhe wei shi ren zong | 
+ni hao wei na | 
+gen wo lai | 
+bang wo men kan jia o | 
+qu yang tai kan yi kan | 
+lai bei shui | 
+bang wo zhao zhao shou ji | 
+xian liao jie yi xia jia li de qing kuang ba ;
+$filler = filler1 | filler2 | filler3 | filler4 | filler5 | filler6 | filler7 | filler8 | filler9 | filler10 | filler11 | filler12 | filler13 | filler14 | filler15 ;
+(SENT-START ( $orders ) SENT-END)

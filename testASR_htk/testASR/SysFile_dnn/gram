@@ -1,0 +1,55 @@
+$orders = da kai teng xun | 
+da kai ji shi ben | 
+da kai wang yi yun | 
+da kai hui bian | 
+da kai ren wu guan li qi | 
+wei na yi hao | 
+wei na er hao | 
+ding dong ding dong | 
+yu yin shi bie | 
+xia men da xue | 
+ni hao | 
+ni cong na li lai | 
+ni jiao shen me ming zi | 
+ni hui shen me | 
+qian jin | 
+hou tui | 
+zuo zhuan | 
+you zhuan | 
+tiao wu | 
+kai pao | 
+xian zai ji dian le | 
+hong qing yang | 
+tong feng | 
+lei wen dian | 
+liu zhi jian | 
+da kai she deng | 
+guan bi she deng | 
+da kai tong deng | 
+guan bi tong deng | 
+da kai dian shi | 
+guan bi dian shi | 
+da kai deng guang | 
+guan bi deng guang | 
+da kai deng dai | 
+guan bi deng dai | 
+zhong yang yi tao | 
+zhong yang san tao | 
+zhong yang wu tao | 
+li jia mo shi | 
+hui ke mo shi | 
+shui mian mo shi | 
+da kai chuang lian | 
+guan bi chuang lian | 
+wei lai jia | 
+hui jia mo shi | 
+huan tai | 
+kan dian shi | 
+lang man mo shi | 
+shang yi tai | 
+xia yi tai | 
+zhe shi ren zong | 
+ni ke yi hui qu chi fan le | 
+bang wo na yi bei shui ;
+$filler = filler1 | filler2 | filler3 | filler4 | filler5 | filler6 | filler7 | filler8 | filler9 | filler10 | filler11 | filler12 | filler13 | filler14 | filler15 ;
+(SENT-START ( $orders ) SENT-END)

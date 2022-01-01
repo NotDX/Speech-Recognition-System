@@ -1,0 +1,79 @@
+$orders = ni hao xiao yi|
+wei na yi hao |
+wei na er hao |
+ding dong ding dong |
+yu yin shi bie | 
+xia men da xue | 
+ni hao | 
+ni cong na li lai | 
+ni jiao shen me ming zi | 
+ni hui shen me | 
+qian jin | 
+hou tui | 
+zuo zhuan | 
+you zhuan | 
+tiao wu | 
+kai pao | 
+xian zai ji dian le | 
+hong qing yang | 
+tong feng | 
+li lin | 
+lei wen dian | 
+liu zhi jian | 
+da kai she deng | 
+guan bi she deng | 
+da kai tong deng | 
+guan bi tong deng | 
+da kai dian shi | 
+guan bi dian shi | 
+da kai deng guang | 
+guan bi deng guang | 
+da kai deng dai | 
+guan bi deng dai | 
+zhong yang yi tao | 
+zhong yang san tao | 
+zhong yang wu tao | 
+li jia mo shi | 
+hui ke mo shi | 
+shui mian mo shi | 
+da kai chuang lian | 
+guan bi chuang lian | 
+wei lai jia | 
+hui jia mo shi | 
+huan tai | 
+kan dian shi | 
+lang man mo shi | 
+shang yi tai | 
+xia yi tai | 
+lai ke ren le | 
+gen wo lai | 
+gen wo zou | 
+wo gei ni jie shao yi xia ke ren | 
+gei ke ren na yi bei yun liao | 
+gei ke ren na yi ping shui | 
+shui | 
+yun liao | 
+guo zhi er | 
+niu nai | 
+ni hao | 
+lai bei cheng zhi ba | 
+lai liang gen er xiang jiao | 
+kuai qu zhun bei | 
+kan hao le xia ci jiu an zhao ke ren de yao qiu jin xing zheng li | 
+yi hou yao an zhao zhe ge jin xing zheng li | 
+wo dai ni kan kan jia ting huan jing | 
+zhe shi wo jia de ke ting | 
+zhe shi chu fang | 
+zhe shi wo de ou shi | 
+bang wo kan kan you mei you mo sheng ren lai wang | 
+bang wo jian ce wen du he mei qi zhuang kuang | 
+zhe ge chuang hu shi shi guan bi de bu yao da kai | 
+bang wo men kan jia o | 
+zui jin you sha hen huo de xin pian | 
+gei wo zhan shi yi xia jin tian de jia ting huan jing shu ju | 
+gei wo zhan shi yi xia jin tian de an quan shu ju | 
+fei chang gan xie ni de bang zhu | 
+ni qu chi fan xiu xi ba | 
+ke yi ;
+$filler = filler1 | filler2 | filler3 | filler4 | filler5 | filler6 | filler7 | filler8 | filler9 | filler10 | filler11 | filler12 | filler13 | filler14 | filler15 ;
+(SENT-START ( <$filler> [$models] | [$models] <$filler> | <$filler> [$models] <$filler> | <$filler> ) SENT-END)

@@ -1,0 +1,467 @@
+VERSION=1.0
+N=207  L=258  
+I=0    W=!NULL               
+I=1    W=!NULL               
+I=2    W=SENT-START          
+I=3    W=da                  
+I=4    W=kai                 
+I=5    W=teng                
+I=6    W=xun                 
+I=7    W=!NULL               
+I=8    W=da                  
+I=9    W=kai                 
+I=10   W=ji                  
+I=11   W=shi                 
+I=12   W=ben                 
+I=13   W=da                  
+I=14   W=kai                 
+I=15   W=wang                
+I=16   W=yi                  
+I=17   W=yun                 
+I=18   W=da                  
+I=19   W=kai                 
+I=20   W=hui                 
+I=21   W=bian                
+I=22   W=da                  
+I=23   W=kai                 
+I=24   W=ren                 
+I=25   W=wu                  
+I=26   W=guan                
+I=27   W=li                  
+I=28   W=qi                  
+I=29   W=wei                 
+I=30   W=na                  
+I=31   W=yi                  
+I=32   W=hao                 
+I=33   W=wei                 
+I=34   W=na                  
+I=35   W=er                  
+I=36   W=hao                 
+I=37   W=ding                
+I=38   W=dong                
+I=39   W=ding                
+I=40   W=dong                
+I=41   W=yu                  
+I=42   W=yin                 
+I=43   W=shi                 
+I=44   W=bie                 
+I=45   W=xia                 
+I=46   W=men                 
+I=47   W=da                  
+I=48   W=xue                 
+I=49   W=ni                  
+I=50   W=hao                 
+I=51   W=ni                  
+I=52   W=cong                
+I=53   W=na                  
+I=54   W=li                  
+I=55   W=lai                 
+I=56   W=ni                  
+I=57   W=jiao                
+I=58   W=shen                
+I=59   W=me                  
+I=60   W=ming                
+I=61   W=zi                  
+I=62   W=ni                  
+I=63   W=hui                 
+I=64   W=shen                
+I=65   W=me                  
+I=66   W=qian                
+I=67   W=jin                 
+I=68   W=hou                 
+I=69   W=tui                 
+I=70   W=zuo                 
+I=71   W=zhuan               
+I=72   W=you                 
+I=73   W=zhuan               
+I=74   W=tiao                
+I=75   W=wu                  
+I=76   W=kai                 
+I=77   W=pao                 
+I=78   W=xian                
+I=79   W=zai                 
+I=80   W=ji                  
+I=81   W=dian                
+I=82   W=le                  
+I=83   W=hong                
+I=84   W=qing                
+I=85   W=yang                
+I=86   W=tong                
+I=87   W=feng                
+I=88   W=lei                 
+I=89   W=wen                 
+I=90   W=dian                
+I=91   W=liu                 
+I=92   W=zhi                 
+I=93   W=jian                
+I=94   W=da                  
+I=95   W=kai                 
+I=96   W=she                 
+I=97   W=deng                
+I=98   W=guan                
+I=99   W=bi                  
+I=100  W=she                 
+I=101  W=deng                
+I=102  W=da                  
+I=103  W=kai                 
+I=104  W=tong                
+I=105  W=deng                
+I=106  W=guan                
+I=107  W=bi                  
+I=108  W=tong                
+I=109  W=deng                
+I=110  W=da                  
+I=111  W=kai                 
+I=112  W=dian                
+I=113  W=shi                 
+I=114  W=guan                
+I=115  W=bi                  
+I=116  W=dian                
+I=117  W=shi                 
+I=118  W=da                  
+I=119  W=kai                 
+I=120  W=deng                
+I=121  W=guang               
+I=122  W=guan                
+I=123  W=bi                  
+I=124  W=deng                
+I=125  W=guang               
+I=126  W=da                  
+I=127  W=kai                 
+I=128  W=deng                
+I=129  W=dai                 
+I=130  W=guan                
+I=131  W=bi                  
+I=132  W=deng                
+I=133  W=dai                 
+I=134  W=zhong               
+I=135  W=yang                
+I=136  W=yi                  
+I=137  W=tao                 
+I=138  W=zhong               
+I=139  W=yang                
+I=140  W=san                 
+I=141  W=tao                 
+I=142  W=zhong               
+I=143  W=yang                
+I=144  W=wu                  
+I=145  W=tao                 
+I=146  W=li                  
+I=147  W=jia                 
+I=148  W=mo                  
+I=149  W=shi                 
+I=150  W=hui                 
+I=151  W=ke                  
+I=152  W=mo                  
+I=153  W=shi                 
+I=154  W=shui                
+I=155  W=mian                
+I=156  W=mo                  
+I=157  W=shi                 
+I=158  W=da                  
+I=159  W=kai                 
+I=160  W=chuang              
+I=161  W=lian                
+I=162  W=guan                
+I=163  W=bi                  
+I=164  W=chuang              
+I=165  W=lian                
+I=166  W=wei                 
+I=167  W=lai                 
+I=168  W=jia                 
+I=169  W=hui                 
+I=170  W=jia                 
+I=171  W=mo                  
+I=172  W=shi                 
+I=173  W=huan                
+I=174  W=tai                 
+I=175  W=kan                 
+I=176  W=dian                
+I=177  W=shi                 
+I=178  W=lang                
+I=179  W=man                 
+I=180  W=mo                  
+I=181  W=shi                 
+I=182  W=shang               
+I=183  W=yi                  
+I=184  W=tai                 
+I=185  W=xia                 
+I=186  W=yi                  
+I=187  W=tai                 
+I=188  W=zhe                 
+I=189  W=shi                 
+I=190  W=ren                 
+I=191  W=zong                
+I=192  W=ni                  
+I=193  W=ke                  
+I=194  W=yi                  
+I=195  W=hui                 
+I=196  W=qu                  
+I=197  W=chi                 
+I=198  W=fan                 
+I=199  W=le                  
+I=200  W=bang                
+I=201  W=wo                  
+I=202  W=na                  
+I=203  W=yi                  
+I=204  W=bei                 
+I=205  W=shui                
+I=206  W=SENT-END            
+J=0     S=206  E=1    
+J=1     S=0    E=2    
+J=2     S=2    E=3    
+J=3     S=3    E=4    
+J=4     S=4    E=5    
+J=5     S=5    E=6    
+J=6     S=6    E=7    
+J=7     S=12   E=7    
+J=8     S=17   E=7    
+J=9     S=21   E=7    
+J=10    S=28   E=7    
+J=11    S=32   E=7    
+J=12    S=36   E=7    
+J=13    S=40   E=7    
+J=14    S=44   E=7    
+J=15    S=48   E=7    
+J=16    S=50   E=7    
+J=17    S=55   E=7    
+J=18    S=61   E=7    
+J=19    S=65   E=7    
+J=20    S=67   E=7    
+J=21    S=69   E=7    
+J=22    S=71   E=7    
+J=23    S=73   E=7    
+J=24    S=75   E=7    
+J=25    S=77   E=7    
+J=26    S=82   E=7    
+J=27    S=85   E=7    
+J=28    S=87   E=7    
+J=29    S=90   E=7    
+J=30    S=93   E=7    
+J=31    S=97   E=7    
+J=32    S=101  E=7    
+J=33    S=105  E=7    
+J=34    S=109  E=7    
+J=35    S=113  E=7    
+J=36    S=117  E=7    
+J=37    S=121  E=7    
+J=38    S=125  E=7    
+J=39    S=129  E=7    
+J=40    S=133  E=7    
+J=41    S=137  E=7    
+J=42    S=141  E=7    
+J=43    S=145  E=7    
+J=44    S=149  E=7    
+J=45    S=153  E=7    
+J=46    S=157  E=7    
+J=47    S=161  E=7    
+J=48    S=165  E=7    
+J=49    S=168  E=7    
+J=50    S=172  E=7    
+J=51    S=174  E=7    
+J=52    S=177  E=7    
+J=53    S=181  E=7    
+J=54    S=184  E=7    
+J=55    S=187  E=7    
+J=56    S=191  E=7    
+J=57    S=199  E=7    
+J=58    S=205  E=7    
+J=59    S=2    E=8    
+J=60    S=8    E=9    
+J=61    S=9    E=10   
+J=62    S=10   E=11   
+J=63    S=11   E=12   
+J=64    S=2    E=13   
+J=65    S=13   E=14   
+J=66    S=14   E=15   
+J=67    S=15   E=16   
+J=68    S=16   E=17   
+J=69    S=2    E=18   
+J=70    S=18   E=19   
+J=71    S=19   E=20   
+J=72    S=20   E=21   
+J=73    S=2    E=22   
+J=74    S=22   E=23   
+J=75    S=23   E=24   
+J=76    S=24   E=25   
+J=77    S=25   E=26   
+J=78    S=26   E=27   
+J=79    S=27   E=28   
+J=80    S=2    E=29   
+J=81    S=29   E=30   
+J=82    S=30   E=31   
+J=83    S=31   E=32   
+J=84    S=2    E=33   
+J=85    S=33   E=34   
+J=86    S=34   E=35   
+J=87    S=35   E=36   
+J=88    S=2    E=37   
+J=89    S=37   E=38   
+J=90    S=38   E=39   
+J=91    S=39   E=40   
+J=92    S=2    E=41   
+J=93    S=41   E=42   
+J=94    S=42   E=43   
+J=95    S=43   E=44   
+J=96    S=2    E=45   
+J=97    S=45   E=46   
+J=98    S=46   E=47   
+J=99    S=47   E=48   
+J=100   S=2    E=49   
+J=101   S=49   E=50   
+J=102   S=2    E=51   
+J=103   S=51   E=52   
+J=104   S=52   E=53   
+J=105   S=53   E=54   
+J=106   S=54   E=55   
+J=107   S=2    E=56   
+J=108   S=56   E=57   
+J=109   S=57   E=58   
+J=110   S=58   E=59   
+J=111   S=59   E=60   
+J=112   S=60   E=61   
+J=113   S=2    E=62   
+J=114   S=62   E=63   
+J=115   S=63   E=64   
+J=116   S=64   E=65   
+J=117   S=2    E=66   
+J=118   S=66   E=67   
+J=119   S=2    E=68   
+J=120   S=68   E=69   
+J=121   S=2    E=70   
+J=122   S=70   E=71   
+J=123   S=2    E=72   
+J=124   S=72   E=73   
+J=125   S=2    E=74   
+J=126   S=74   E=75   
+J=127   S=2    E=76   
+J=128   S=76   E=77   
+J=129   S=2    E=78   
+J=130   S=78   E=79   
+J=131   S=79   E=80   
+J=132   S=80   E=81   
+J=133   S=81   E=82   
+J=134   S=2    E=83   
+J=135   S=83   E=84   
+J=136   S=84   E=85   
+J=137   S=2    E=86   
+J=138   S=86   E=87   
+J=139   S=2    E=88   
+J=140   S=88   E=89   
+J=141   S=89   E=90   
+J=142   S=2    E=91   
+J=143   S=91   E=92   
+J=144   S=92   E=93   
+J=145   S=2    E=94   
+J=146   S=94   E=95   
+J=147   S=95   E=96   
+J=148   S=96   E=97   
+J=149   S=2    E=98   
+J=150   S=98   E=99   
+J=151   S=99   E=100  
+J=152   S=100  E=101  
+J=153   S=2    E=102  
+J=154   S=102  E=103  
+J=155   S=103  E=104  
+J=156   S=104  E=105  
+J=157   S=2    E=106  
+J=158   S=106  E=107  
+J=159   S=107  E=108  
+J=160   S=108  E=109  
+J=161   S=2    E=110  
+J=162   S=110  E=111  
+J=163   S=111  E=112  
+J=164   S=112  E=113  
+J=165   S=2    E=114  
+J=166   S=114  E=115  
+J=167   S=115  E=116  
+J=168   S=116  E=117  
+J=169   S=2    E=118  
+J=170   S=118  E=119  
+J=171   S=119  E=120  
+J=172   S=120  E=121  
+J=173   S=2    E=122  
+J=174   S=122  E=123  
+J=175   S=123  E=124  
+J=176   S=124  E=125  
+J=177   S=2    E=126  
+J=178   S=126  E=127  
+J=179   S=127  E=128  
+J=180   S=128  E=129  
+J=181   S=2    E=130  
+J=182   S=130  E=131  
+J=183   S=131  E=132  
+J=184   S=132  E=133  
+J=185   S=2    E=134  
+J=186   S=134  E=135  
+J=187   S=135  E=136  
+J=188   S=136  E=137  
+J=189   S=2    E=138  
+J=190   S=138  E=139  
+J=191   S=139  E=140  
+J=192   S=140  E=141  
+J=193   S=2    E=142  
+J=194   S=142  E=143  
+J=195   S=143  E=144  
+J=196   S=144  E=145  
+J=197   S=2    E=146  
+J=198   S=146  E=147  
+J=199   S=147  E=148  
+J=200   S=148  E=149  
+J=201   S=2    E=150  
+J=202   S=150  E=151  
+J=203   S=151  E=152  
+J=204   S=152  E=153  
+J=205   S=2    E=154  
+J=206   S=154  E=155  
+J=207   S=155  E=156  
+J=208   S=156  E=157  
+J=209   S=2    E=158  
+J=210   S=158  E=159  
+J=211   S=159  E=160  
+J=212   S=160  E=161  
+J=213   S=2    E=162  
+J=214   S=162  E=163  
+J=215   S=163  E=164  
+J=216   S=164  E=165  
+J=217   S=2    E=166  
+J=218   S=166  E=167  
+J=219   S=167  E=168  
+J=220   S=2    E=169  
+J=221   S=169  E=170  
+J=222   S=170  E=171  
+J=223   S=171  E=172  
+J=224   S=2    E=173  
+J=225   S=173  E=174  
+J=226   S=2    E=175  
+J=227   S=175  E=176  
+J=228   S=176  E=177  
+J=229   S=2    E=178  
+J=230   S=178  E=179  
+J=231   S=179  E=180  
+J=232   S=180  E=181  
+J=233   S=2    E=182  
+J=234   S=182  E=183  
+J=235   S=183  E=184  
+J=236   S=2    E=185  
+J=237   S=185  E=186  
+J=238   S=186  E=187  
+J=239   S=2    E=188  
+J=240   S=188  E=189  
+J=241   S=189  E=190  
+J=242   S=190  E=191  
+J=243   S=2    E=192  
+J=244   S=192  E=193  
+J=245   S=193  E=194  
+J=246   S=194  E=195  
+J=247   S=195  E=196  
+J=248   S=196  E=197  
+J=249   S=197  E=198  
+J=250   S=198  E=199  
+J=251   S=2    E=200  
+J=252   S=200  E=201  
+J=253   S=201  E=202  
+J=254   S=202  E=203  
+J=255   S=203  E=204  
+J=256   S=204  E=205  
+J=257   S=7    E=206  

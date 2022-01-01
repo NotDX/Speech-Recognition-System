@@ -1,0 +1,9 @@
+SOURCEKIND = WAVEFORM
+SOURCEFORMAT = WAV
+SOURCERATE = 625.0
+TARGETKIND = MFCC_E_D_A_Z
+TARGETRATE = 100000.0
+ HNET:TRACE     = 1             #   Want this for recognition
+#FORCECXTEXP    = T             #   Needed for cross word systems
+HMODEL: SAVEBINARY = T 
+HCUDA: GPUID = 1

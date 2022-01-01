@@ -1,0 +1,9 @@
+SOURCEKIND = ANON
+SOURCEFORMAT = HTK
+ TARGETKIND     = MFCC_E_D_A_Z    #   Basic parameterisation
+HPARM: VARSCALEDIR = ./SysFile_dnn/cvn
+HPARM: VARSCALEMASK = '*.%%%'
+HPARM: VARSCALEPATHMASK = '*.%%%'
+HPARM: VARSCALEFN = ./SysFile_dnn/ident_MFCC_E_D_A_Z_cvn
+HMODEL: SAVEBINARY = F 
+HCUDA: GPUID = 1

@@ -1,0 +1,26 @@
+﻿  main.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+C:\Users\Lulu\Desktop\testASR_htk\testASR\main.cpp(142,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“const void *”
+C:\Users\Lulu\Desktop\testASR_htk\testASR\main.cpp(161,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lulu\Desktop\testASR_htk\testASR\main.cpp(241,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Lulu\Desktop\testASR_htk\testASR\main.cpp(229,7): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+C:\Users\Lulu\Desktop\testASR_htk\testASR\main.cpp(250,7): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+C:\Users\Lulu\Desktop\testASR_htk\testASR\main.cpp(272,7): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+C:\Users\Lulu\Desktop\testASR_htk\testASR\main.cpp(281,3): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Users\Lulu\Desktop\testASR_htk\testASR\main.cpp(332,2): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lulu\Desktop\testASR_htk\testASR\main.cpp(338,9): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lulu\Desktop\testASR_htk\testASR\main.cpp(339,2): warning C4996: '_ftime64': This function or variable may be unsafe. Consider using _ftime64_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lulu\Desktop\testASR_htk\testASR\main.cpp(341,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lulu\Desktop\testASR_htk\testASR\main.cpp(344,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lulu\Desktop\testASR_htk\testASR\main.cpp(348,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lulu\Desktop\testASR_htk\testASR\main.cpp(350,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lulu\Desktop\testASR_htk\testASR\main.cpp(353,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lulu\Desktop\testASR_htk\testASR\main.cpp(360,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lulu\Desktop\testASR_htk\testASR\main.cpp(373,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lulu\Desktop\testASR_htk\testASR\main.cpp(380,7): warning C4101: “tmp”: 未引用的局部变量
+C:\Users\Lulu\Desktop\testASR_htk\testASR\main.cpp(497,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\Lulu\Desktop\testASR_htk\testASR\main.cpp(499,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Lulu\Desktop\testASR_htk\testASR\main.cpp(464,7): warning C4101: “tmp”: 未引用的局部变量
+C:\Users\Lulu\Desktop\testASR_htk\testASR\main.cpp(463,6): warning C4101: “counter_threads”: 未引用的局部变量
+C:\Users\Lulu\Desktop\testASR_htk\testASR\main.cpp(491,16): warning C4101: “Timeb”: 未引用的局部变量
+  testASR.vcxproj -> C:\Users\Lulu\Desktop\testASR_htk\Debug\testASR.exe
